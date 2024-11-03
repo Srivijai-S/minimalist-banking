@@ -1,23 +1,25 @@
-**Minimalist Banking Interface**
+# **Minimalist Banking Interface**
 
 A sleek and simple banking interface built using JavaScript and CSS. This project showcases a clean, user-friendly design with basic banking functionalities.
 
-*Responsive design*
+## 🌐 Responsive Design
 
-Getting Started
+This interface is fully responsive, ensuring a smooth experience across different devices.
+
+---
+
+### **Getting Started**
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/srivijai-s/minimalist-banking.git
+   cd minimalist-banking-interface
 
 
-1)Clone the repository:
+2.Open index.html in your browser to view the application.
 
-git clone https://github.com/srivijai-s/minimalist-banking.git
-
-cd minimalist-banking-interface
-2)Open index.html in your browser to view the application.
-
-Technologies Used:
+#Technologies Used
 JavaScript: For dynamic interactions and functionality.
-
 CSS: For styling and responsive design.
-
-Contributing :)
+## Contributing 🚀
 Feel free to fork the repository and submit pull requests. Any improvements or suggestions are welcome!
