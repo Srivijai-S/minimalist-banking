@@ -6,6 +6,7 @@ A sleek and simple banking interface built using JavaScript and CSS. This projec
 ## 🌐 Responsive Design
 
 This interface is fully responsive, ensuring a smooth experience across different devices.
+![image](https://github.com/user-attachments/assets/59429508-16cd-4561-a1df-66bf4259c7e3)
 
 ---
 
