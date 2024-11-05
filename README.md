@@ -1,4 +1,5 @@
 # **Minimalist Banking Interface**
+![image](https://github.com/user-attachments/assets/01303944-f1e8-45d5-84eb-7657c89122ce)
 
 A sleek and simple banking interface built using JavaScript and CSS. This project showcases a clean, user-friendly design with basic banking functionalities.
 
